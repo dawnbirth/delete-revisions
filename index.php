@@ -197,5 +197,3 @@ class DeleteRevisions {
 
 }
 
-//Initialize Our plugin
-$deleteRevision = new \DMI\DeleteRevisions();
